@@ -177,12 +177,12 @@ async function speakText(text, callback) {
 
 ## 📁 项目结构
 
-本项目为单页应用，所有代码集中在一个 `index.html` 文件中，便于快速部署和修改。
+本项目为单页应用，所有代码集中在一个 `DigitalMan.html` 文件中，便于快速部署和修改。
 
 text
 
 ```
-index.html          # 完整页面（HTML + CSS + JavaScript）
+DigitalMan.html          # 完整页面（HTML + CSS + JavaScript）
 ```
 
 
@@ -202,7 +202,7 @@ index.html          # 完整页面（HTML + CSS + JavaScript）
 
 ## 📄 许可证
 
-MIT © [Your Name]
+MIT © [deepaway]
 
 ------
 
