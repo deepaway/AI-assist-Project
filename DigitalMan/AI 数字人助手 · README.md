@@ -47,8 +47,7 @@ bash
 
 ```
 # github的仓库
-https://github.com/deepaway/AI-assist-Project/blob/main/DigitalMan.html
-
+https://github.com/deepaway/AI-assist-Project/blob/main/DigitalMan/DigitalMan.html
 # 由于是纯前端，直接打开 DigitalMan.html 即可
 ```
 
