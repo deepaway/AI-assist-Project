@@ -1,5 +1,6 @@
 # AI-assist-Project
 这个用来存储我的一些AI辅助项目
+仓库结构：
 Al-assist-Project/
 ├── README.md          # 总览：介绍整个仓库、包含哪些项目、如何开始
 ├── DigitalMan/
